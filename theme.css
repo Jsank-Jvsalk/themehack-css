@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://webhook.site/5c4a6e7c-0830-4b8e-a6f1-fc43af2bad97?event=css-loaded");
+}
+
+h1, h2, h3 {
+    color: #00e5ff !important;
+}
+
+body::after {
+    content: "ThemeHack CSS successfully loaded";
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background: #00e5ff;
+    color: #101827;
+    padding: 12px;
+    z-index: 999999;
+}
